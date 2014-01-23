@@ -10,5 +10,4 @@ ID	Name	Hostname	Hostport	AuthUrl	Status	ClientVersion	ClientRes
 9	233	192.168.0.233	8889	http://192.168.0.220/	1		http://192.168.0.220/static/
 10	北京	106.3.32.12	8888	http://192.168.0.220/	1		http://192.168.0.220/static/
 11	成都	221.237.157.134	8999	http://192.168.0.220/	1		http://192.168.0.220/static/
-
-
+12	北京内网	106.3.72.2	8888	http://192.168.0.220/	1		http://192.168.0.220/static/
